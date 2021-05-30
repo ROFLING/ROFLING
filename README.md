@@ -8,9 +8,16 @@
     - **Syndicate** - Администратор;
     - **Lounge** (2021-СЕЙЧАС) - Модератор & Мафия;
 
+# 🤖 Типы ботов
+
+– Экономика
+– Модерация
+– Заполнение заявок / анкет / тестирование
+– Приватные каналы
 
 
-# ⌨ Мои скиллы
+
+# 💻 Мои умения
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-F7DF1E?&style=for-the-badge&logo=Python&logoColor=222222" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-336791?&style=for-the-badge&logo=MySQL&logoColor=white" />

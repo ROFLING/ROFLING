@@ -43,6 +43,11 @@
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
 </p>
 
+
+# ✉ Мои контакты
+<p align= "center">
+    <a href="https://discords.com/bio/p/rifling"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
+
 <!--
 **ROFLING/ROFLING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

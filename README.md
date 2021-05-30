@@ -3,10 +3,10 @@
 * ┌ **Имя:** Даниил
 * ├ **Возраст:** 18
 * └ **Опыт работы:**
-    - **Among Us RU Community** - Бывший главный администратор;
-    - **Tenderly** - Контрол;
-    - **Syndicate** - Администратор;
-    - **Lounge** (2021-СЕЙЧАС) - Модератор & Мафия;
+    - **Among Us RU Community**
+    - **Tenderly**
+    - **Syndicate**
+    - **Lounge**
 
 # 🤖 Типы ботов
 
@@ -27,6 +27,7 @@
 
 
 # 🛠 Мои инструменты
+
 <p align="center">
     <img alt="Sublime Text 3" src="https://img.shields.io/badge/Sublime%20Text%203-007ACC?&style=for-the-badge&logo=Sublime-Text-3&logoColor=white" />
      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" /> 

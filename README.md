@@ -45,7 +45,7 @@
 # 🛠 Мои инструменты
 
 <p align="center">
-    <img alt="Sublime Text 3" src="https://img.shields.io/badge/Sublime%20Text%203-007ACC?&style=for-the-badge&logo=Sublime-Text-3&logoColor=white" />
+    <img alt="Sublime Text 3" src="https://img.shields.io/badge/Sublime%20Text%203-F05032?&style=for-the-badge&logo=Sublime-Text-3&logoColor=white" />
      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" /> 
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
 </p>

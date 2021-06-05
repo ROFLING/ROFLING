@@ -42,7 +42,7 @@
     <img alt="Buttons" src="https://img.shields.io/badge/BUTTONS-139491?&style=for-the-badge&logo=/BUTTONS&logoColor=white%22" />
 </p>   
  
-# 🛠 Мои инструменты
+# 🛠 Мои инструменты.
 
 <p align="center">
     <img alt="Sublime Text 3" src="https://img.shields.io/badge/Sublime%20Text%203-F05032?&style=for-the-badge&logo=Sublime-Text-3&logoColor=white" />

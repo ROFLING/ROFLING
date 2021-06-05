@@ -36,7 +36,7 @@
 <p align="center">
 
 
-# 🪓 Новейшие фуекции ботов
+# 🪓 Новейшие функции ботов
 <p align="center">
      <img alt="Slash" src="https://img.shields.io/badge/Slash%20Commands-135491?&style=for-the-badge&logo=/Slash%20Commands&logoColor=white%22" />    
     <img alt="Buttons" src="https://img.shields.io/badge/BUTTONS-139491?&style=for-the-badge&logo=/BUTTONS&logoColor=white%22" />

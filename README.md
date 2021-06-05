@@ -30,6 +30,7 @@
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/Python-F7DF1E?&style=for-the-badge&logo=Python&logoColor=222222" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-336791?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white" />
 </p>
